@@ -13,7 +13,7 @@ RUN \
   build-essential curl bash git autoconf automake libsqlite3-dev bison libtool \
   flex autoconf-archive libboost-all-dev cmake libcppunit-dev ca-certificates \
   libssl-dev libedit-dev libseccomp-dev jq libarchive-dev wget pkg-config \
-  linux-headers-raspi docbook-xml docbook-xsl libsodium-dev \
+  linux-headers-armmp  docbook-xml docbook-xsl libsodium-dev \
   sudo libbz2-dev libcurl4-openssl-dev liblzma-dev libbrotli-dev libgc-dev nlohmann-json3-dev \
   libgtest-dev googletest libgmock-dev && \
   apt-get autoremove -y && \
